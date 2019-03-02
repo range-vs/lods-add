@@ -31,7 +31,7 @@
 Если Вы берёте координаты из редактора Autodesk Maya, то коорднату z **обязательно** следует инвертировать.
 
 
-## Russian description
+## English description
 The program is designed to work with the X-Ray SDK of any version. Tested on X-Ray SDK 0.7.
 It is a program for batch moving lodov from one location to another with offset position.
 
