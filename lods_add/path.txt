@@ -1,0 +1,4 @@
+props
+trees
+дома
+statics
