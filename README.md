@@ -1,7 +1,7 @@
 # Lods Add
 
 ## English description
-The program is designed to work with the X-Ray SDK of any version. Tested on X-Ray SDK 0.7.
+The program is designed to work with the X-Ray SDK 0.7.
 It is a program for batch moving lodov from one location to another with offset position.
 
 ### Use:
@@ -31,7 +31,7 @@ If there are no directories, then you need to create next to the program.
 If you take coordinates from an Autodesk Maya editor, then the z **coordinate must** be inverted.
 
 ## Русское описание
-Программа создана для работы с X-Ray SDK любой версии. Тестировалось на X-Ray SDK 0.7.
+Программа создана для работы с X-Ray SDK 0.7.
 Представляет из себя программу для пакетного перемещения лодов из одной локации на другую со смещением позиции.
 
 ### Использование:
