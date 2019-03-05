@@ -50,7 +50,7 @@ If you take coordinates from an Autodesk Maya editor, then the z **coordinate mu
 Если каталогов нет, то требуется создать рядом с программой.
 * levels\in\ - здесь должен располагаться файл **scene_object.part**, из которого будут браться секции
 * levels\modify\ - здесь должен распологаться файл **scene_object.part**, к которому будут добавляться секции
-* levels\out\ - здесь создасться выходной файл **scene_object.part**, хранящий секции двух локаций
+* levels\out\ - здесь создастся выходной файл **scene_object.part**, хранящий секции двух локаций
 
 ### Пример:
 ```
